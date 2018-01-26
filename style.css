@@ -1,0 +1,143 @@
+#imagenes  {
+  display: block ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+
+#down {
+    list-style-type: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f2f2f2;
+}
+
+#up {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #80808000;
+}
+
+#izq  {
+    float: left;
+}
+#der  {
+    float: right;
+}
+
+
+#entrada {
+
+    float:left;
+    width: 40%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: auto ;
+    margin-right: auto ;
+      display: block ;
+}
+
+#entradaboton {
+    height: 46px;
+    float:left;
+    width: 5%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+
+    /*padding: 12px 20px 12px 40px;
+    margin-left: auto ;
+    margin-right: auto ;
+    display: block ;*/
+
+}
+
+p {
+
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 58px;
+    min-width: 980p
+    font-size: 16px;
+    font-family: arial,sans-serif;
+    margin: 0;
+
+}
+.button:hover {
+
+  border: 1px solid gray;
+}
+.button {
+  height: 36px;
+  line-height: 27px;
+  border: 1px solid #f2f2f2;
+  background-color: #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  /*display: inline-block;
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;*/
+}
+.entradas {
+  /*text-align: center ;*/
+  margin-left: 450px;
+}
+
+.BotonesBusqueda {
+    text-align: center ;
+    font-family: arial,sans-serif;
+  /*margin-left: auto ;
+  margin-right: auto ;
+  display: block*/
+}
+
+li a {
+  font-family: arial,sans-serif;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+
+}
+
+.BotonesFinalizacion {
+border-top: 1px solid #e4e4e4;
+
+}
